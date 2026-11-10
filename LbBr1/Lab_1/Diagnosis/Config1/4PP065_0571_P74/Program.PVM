@@ -1,9 +1,0 @@
-WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=Program 
-Position X=0 Y=0 Width=0 Height=0 TabWidth Name=200 Type=100 Scope=60 Force=60 Index=1 ASCIIString=0
-                                    name                                     type force                                                            value level type len format place expand specs
-                              fb_motor_2                                 FB_Motor    0 "                                                               *"    0   24    1    0    1    1         
-                                       w                                     REAL    0 "                                                      59.9913979"    1    8    1   10    0    0         
-                                fb_motor                                 FB_Motor    0 "                                                               *"    0   24    1    0    1    1         
-                                       w                                     REAL    0 "                                                       59.998024"    1    8    1   10    0    0         
-                                   Speed                                     REAL    0 "                                                            60.0"    0    8    1   10    1    0         
-                                 Counter                                    USINT    0 "                                                             184"    0    5    1   10    1    0         
